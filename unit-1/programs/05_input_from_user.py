@@ -1,0 +1,1 @@
+x=int(input("enter your input:ṇ"))
